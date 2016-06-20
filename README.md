@@ -1,6 +1,6 @@
 #Angular2 Instant
 
-###This is a quick, and dirty was to get started with Angular2
+###This is a quick, and dirty way to get started with Angular2
 
 To Use:
 
